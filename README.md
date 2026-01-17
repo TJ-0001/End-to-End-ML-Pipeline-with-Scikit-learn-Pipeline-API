@@ -103,7 +103,7 @@ The objective of this task is to build a **reusable, end-to-end machine learning
 
 ## Files Included
 
-* `Task-2-Telco-Churn-Pipeline.ipynb` — Jupyter Notebook with full code, preprocessing, model training, and evaluation.
+* `End-to-End_ML_Pipeline_with_Scikit-learn_Pipeline_API.ipynb` — Jupyter Notebook with full code, preprocessing, model training, and evaluation.
 * `Telco-Customer-Churn.csv` — Dataset used for analysis and modeling.
 * `churn_prediction_pipeline.pkl` — Exported pipeline ready for production.
 
